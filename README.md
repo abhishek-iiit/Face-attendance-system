@@ -21,7 +21,7 @@ Here,I have used various python libraries and modules for face recognition, face
 
 <h1 align=center> Made with ❤️ by </h1>
 <p align="center">
-  <a href="https://github.com/abhishek-iiit"><h2 align=center>Abhishek Jaiswal</h2></a> 
+  <a href="https://github.com/abhishek-iiit"><img src="https://user-images.githubusercontent.com/69477761/111753834-4ef7ef00-88bd-11eb-856c-afe7d58115d5.png" width=150px height=150px /></a> 
     
 <p align="center">
   <img src="https://img.shields.io/badge/abhishekiiit%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>  <img src="https://img.shields.io/badge/abhishekiiit%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> <img src="https://img.shields.io/badge/manneabhi%20-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/> <img src="https://img.shields.io/badge/abhishekiiit%20-%24E4405F.svg?&style=for-the-badge&logo=Medium&logoColor=white"/>
