@@ -6,6 +6,7 @@
 
 Here,I have used various python libraries and modules for face recognition, face identification, saving a users image and other information also.Along with that OPEN-CV(Open Source Computer Vision) library for face recognition, identification,and pandas package to store student information in local database,Numpy is used to perform the appropriate task,Tkinter helps us to make GUI for better interaction with the program.
 
+![Screenshot from 2021-03-19 14-09-58](https://user-images.githubusercontent.com/69477761/111753506-f1fc3900-88bc-11eb-8e27-237424a706a5.png)
 
 
 
